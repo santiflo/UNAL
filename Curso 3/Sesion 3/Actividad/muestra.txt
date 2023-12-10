@@ -1,0 +1,270 @@
+[
+    {
+        "grades": [
+            {
+                "date": {
+                    "$date": 1393804800000
+                },
+                "grade": "A",
+                "score": 2
+            },
+            {
+                "date": {
+                    "$date": 1378857600000
+                },
+                "grade": "A",
+                "score": 6
+            },
+            {
+                "date": {
+                    "$date": 1358985600000
+                },
+                "grade": "A",
+                "score": 10
+            },
+            {
+                "date": {
+                    "$date": 1322006400000
+                },
+                "grade": "A",
+                "score": 9
+            },
+            {
+                "date": {
+                    "$date": 1299715200000
+                },
+                "grade": "B",
+                "score": 14
+            }
+        ],
+        "name": "Morris Park Bake Shop"
+    },
+    {
+        "grades": [
+            {
+                "date": {
+                    "$date": 1419897600000
+                },
+                "grade": "A",
+                "score": 8
+            },
+            {
+                "date": {
+                    "$date": 1404172800000
+                },
+                "grade": "B",
+                "score": 23
+            },
+            {
+                "date": {
+                    "$date": 1367280000000
+                },
+                "grade": "A",
+                "score": 12
+            },
+            {
+                "date": {
+                    "$date": 1336435200000
+                },
+                "grade": "A",
+                "score": 12
+            }
+        ],
+        "name": "Wendy'S"
+    },
+    {
+        "grades": [
+            {
+                "date": {
+                    "$date": 1409961600000
+                },
+                "grade": "A",
+                "score": 2
+            },
+            {
+                "date": {
+                    "$date": 1374451200000
+                },
+                "grade": "A",
+                "score": 11
+            },
+            {
+                "date": {
+                    "$date": 1343692800000
+                },
+                "grade": "A",
+                "score": 12
+            },
+            {
+                "date": {
+                    "$date": 1325116800000
+                },
+                "grade": "A",
+                "score": 12
+            }
+        ],
+        "name": "Dj Reynolds Pub And Restaurant"
+    },
+    {
+        "grades": [
+            {
+                "date": {
+                    "$date": 1402358400000
+                },
+                "grade": "A",
+                "score": 5
+            },
+            {
+                "date": {
+                    "$date": 1370390400000
+                },
+                "grade": "A",
+                "score": 7
+            },
+            {
+                "date": {
+                    "$date": 1334275200000
+                },
+                "grade": "A",
+                "score": 12
+            },
+            {
+                "date": {
+                    "$date": 1318377600000
+                },
+                "grade": "A",
+                "score": 12
+            }
+        ],
+        "name": "Riviera Caterer"
+    },
+    {
+        "grades": [
+            {
+                "date": {
+                    "$date": 1416787200000
+                },
+                "grade": "Z",
+                "score": 20
+            },
+            {
+                "date": {
+                    "$date": 1358380800000
+                },
+                "grade": "A",
+                "score": 13
+            },
+            {
+                "date": {
+                    "$date": 1343865600000
+                },
+                "grade": "A",
+                "score": 13
+            },
+            {
+                "date": {
+                    "$date": 1323907200000
+                },
+                "grade": "B",
+                "score": 25
+            }
+        ],
+        "name": "Tov Kosher Kitchen"
+    }
+]
+[
+    {
+        "grades": [
+            {
+                "date": {
+                    "$date": 1410739200000
+                },
+                "grade": "A",
+                "score": 5
+            },
+            {
+                "date": {
+                    "$date": 1389657600000
+                },
+                "grade": "A",
+                "score": 8
+            },
+            {
+                "date": {
+                    "$date": 1369872000000
+                },
+                "grade": "A",
+                "score": 12
+            },
+            {
+                "date": {
+                    "$date": 1366761600000
+                },
+                "grade": "P",
+                "score": 2
+            },
+            {
+                "date": {
+                    "$date": 1349049600000
+                },
+                "grade": "A",
+                "score": 9
+            },
+            {
+                "date": {
+                    "$date": 1333670400000
+                },
+                "grade": "C",
+                "score": 92
+            },
+            {
+                "date": {
+                    "$date": 1320278400000
+                },
+                "grade": "C",
+                "score": 41
+            }
+        ],
+        "name": "Gandhi"
+    },
+    {
+        "grades": [
+            {
+                "date": {
+                    "$date": 1419379200000
+                },
+                "grade": "Z",
+                "score": 31
+            },
+            {
+                "date": {
+                    "$date": 1402963200000
+                },
+                "grade": "C",
+                "score": 98
+            },
+            {
+                "date": {
+                    "$date": 1386806400000
+                },
+                "grade": "C",
+                "score": 32
+            },
+            {
+                "date": {
+                    "$date": 1369180800000
+                },
+                "grade": "B",
+                "score": 21
+            },
+            {
+                "date": {
+                    "$date": 1335916800000
+                },
+                "grade": "A",
+                "score": 11
+            }
+        ],
+        "name": "Bella Napoli"
+    }
+]
